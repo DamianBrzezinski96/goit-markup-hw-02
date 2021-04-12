@@ -29,6 +29,7 @@ font-weight: 700;
 font-size: 26px;
 line-height: 1.192;
 letter-spacing: 0.03em;
+color:var(--secondary-color)
 }
 .navigation-logo-second-part {
     color:var(--main-color);
